@@ -1,0 +1,2 @@
+CardType,CreditCard,expiryDate,FirstName,LastName,Address1,Address2,city,State,Zip,country
+Visa,999 9999 9999 9999,12/03,test,test,add1,add2,CC,st,32323,co
